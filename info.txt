@@ -1,0 +1,111 @@
+#### Personal Information
+```Name: Yash Paddalwar
+Current Designation: Data Scientist - Generative AI
+Location: Navi Mumbai, Maharashtra
+Contact: Send an email for it.
+Email: yash.paddalwar@gmail.com
+Portfolio: https://yash-paddalwar-portfolio.netlify.app/
+YouTube Channel: https://youtube.com/@ataglanceofficial```
+
+#### Education
+```- Bachelor of Engineering (Information Technology)
+Institution: Pillai College of Engineering, New Panvel
+CGPA: 9.85
+Duration: 2019–2023
+
+- Senior Secondary (XII)
+Institution: Terna Vidyalaya and Jr. College
+Grade: 80.77%
+Duration: 2017–2019
+
+- Secondary (X)
+Institution: Terna Vidyalaya
+Grade: 89.20%
+Duration: 2016–2017```
+
+#### Certifications
+```Generative AI with LLMs (2024)
+deeplearning.ai
+
+Prompt Engineering for Vision Models (2024)
+deeplearning.ai
+
+Full Stack Data Science Program (2023)
+iNeuron.ai
+
+Machine Learning (2022)
+Goeduhub
+
+Data Science Specialization (2021)
+IBM```
+
+#### Experience
+```Jio Platforms Limited
+Duration: Oct 2023 - Present
+Mode: On-site
+Description:
+- Developed advanced RAG systems for Jio products like JioRoaming, HR Assistant, and Data Curio, using prompt engineering, fine-tuning, and custom tools (PDF extraction, JSON debugger) to enhance performance and streamline processes. 
+- Built a full-fledged DSPy (automatic prompt optimization) pipeline chatbot for real-time use case of JioFiber
+- Developed an agentic framework on Azure Databricks.
+- Additionally, worked on knowledge graphs, API integrations, and deploying scalable models, focusing on fine-tuning and optimizing pipelines to ensure smooth data flow, model efficiency, and safety compliance.
+
+#### Projects
+```
+1. Jio Fiber AI Chatbot
+Developed a modular and scalable chatbot for answering user queries based on JioFiber data using the DSPy framework, enabling runtime prompt optimization with a focus on prompt programming. Built a robust pipeline to handle ambiguous queries by recommending similar non-ambiguous queries, while accurately resolving complete queries using DSPy’s multi-hop strategy. Processed HTML files through custom scraping code and seamless chunking, with data stored and retrieved using Milvus vector database and retriever. Integrated Redis for semantic caching to ensure faster responses for repeated queries and Langfuse for full pipeline observability. Added a recommender system to suggest related FAQs via a "People also ask for" section and ensured support for context-aware responses by leveraging chat history. Delivered the entire solution as a professional API to the business.
+
+2. Jio International Roaming and HR Assistant Chatbot
+Developed RAG systems for JioFiber and HR Assistant chatbots, handling data processing, embedding generation (using open-source models), and storage in Milvus. For JioFiber, implemented a pipeline for accurate data retrieval, follow-up question handling, and query rephrasing, using techniques like Reciprocal Rank Fusion, Llama3, and Mistral. Addressed hallucinations, added feedback loops, and evaluated with Uptrain, monitored via Langfuse. For HR Assistant, created tools to convert complex PDFs into markdown for improved chunking and ingestion into a vector database. Applied re-ranking, rank fusion, and feedback-based personalized response reconstruction to enhance performance.
+
+3. Data Curio
+Implemented a feedback prompt to help users understand query generation issues and guide necessary adjustments.
+
+4. Azure Databricks - Agentic Workflow
+Developed an agentic framework on Azure Databricks by creating UDF tools with SQL for table data access and integrating them into a playground. Built a scheduled data processing pipeline using PySpark UDFs and Python notebooks to efficiently handle tabular data.
+```
+
+#### Hobbies
+
+```*   Technical Blog Writing
+*   Own AI YouTube Channel - https://youtube.com/@ataglanceofficial
+*   Exploring Latest Technologies
+*   Cooking```
+
+#### Achievements
+
+```*   Best Student Award - PCE
+*   Secured Rank 1 in Project Expo - CSI
+*   Finalist - Institute Level Project Competition - PCE
+*   Python Certified - Hackerrank
+*   SQL Certified - Hackerrank
+*   Participated in Google-Hack2Skill Gen AI Hackathon
+*   Essay Writing - PCE```
+
+#### Extra Curricular
+
+```Technical Team Co-ordinator
+
+Held a variety of technical workshops, seminars, webinars, and study circles on trendy tech stacks like ML, Flutter, Android, etc
+
+Duration: 2020 - 2023```
+
+#### Technical Skills
+
+```*   Generative AI
+*   Prompt Engineering
+*   RAG / DSPy
+*   Vector Databases
+*   NLP
+*   ML / DL
+*   Python
+*   Azure Databricks
+*   Docker / Kubernetes
+*   Git```
+
+#### Language
+
+```English        Hindi   Marathi
+89%            96%     100%
+
+German
+31%```
